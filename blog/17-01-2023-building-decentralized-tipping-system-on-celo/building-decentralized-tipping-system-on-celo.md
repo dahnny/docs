@@ -423,7 +423,7 @@ Next up, on remix, download and activate the celo plugin from the plugin manager
 
 ## Conclusion
 
-Congratulations 🎉, you now know what you need to build a decentralized tipping system for staffs on the celo blockchain. Great JOB!!
+Congratulations 🎉, you now know what you need to build a decentralized tipping system for staffs on the celo blockchain. Great JOB!!!
 
 
 ## Next steps
